@@ -43,8 +43,9 @@ Generate a QR Code for a URL:
 -Bash:
 ```
 python code_generator.py -Q -u
-After running the command, you will be prompted to enter the URL.
 ```
+After running the command, you will be prompted to enter the URL.
+
 Generate a Barcode for a 12-digit Number:
 
 -Bash:
